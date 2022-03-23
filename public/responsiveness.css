@@ -1,0 +1,81 @@
+@media only screen and (max-width: 850px){
+    .navbar{
+        display:none;
+    }
+    .logo img{
+        width: 200px;
+        line-height: 90px;
+        padding:10px;
+        padding-left:50px;
+    }
+    .logo{
+        width:100%;
+        top:0;
+        left:0;
+        height:50px;
+        margin-top:20px;
+    }
+    .serviceSec .container ul {
+        height:900px;
+    }
+    .serviceSec .container ul li{
+        width:100%;
+    }
+    .images{
+        margin-top: 650px;
+    }
+    .rightPanel{
+        display:none;
+    }
+    .leftPanel{
+        width:100%;
+    }
+    .leftPanel .abtList{
+        margin-left:0px;
+    }
+    .fircircle, .seccircle, .thircircle, .fortcircle{
+        top:420%;
+        width:20px;
+        height:20px;
+        background-color:white;
+        font-size:15px !important;
+        margin-left:10px;
+    }
+    .secban h3 {
+        top:402%;
+    }
+    .secban p{
+        top:380%;
+    }
+    .ourteam ul {
+        width: 90%;
+        height: 300px;
+        margin: 0;
+        text-align: center;
+        padding: 2px;
+        /* left: 10px; */
+        margin-left: 0;
+        margin-right: auto;
+    }
+    #contactUs #listcontainer .categ{
+        width:100%;
+    }
+    #contactUs #map{
+        display:none;
+    }
+    #footer{
+        height: 265px;
+    }
+    #footer img{
+        width:120px;
+        left:20px;
+        margin-left: 20px;
+    }
+    #copyright_text{
+        float:none !important;
+        display:block !important;
+        text-align:center;
+        width:100% !important;
+        margin-top: 40px !important;
+    }
+}
